@@ -6,7 +6,7 @@
 
 ## 1. Task Initiation
 
-- New task added to the **Asana project board**
+- New task added to the **project board**
 - Include:
   - Gear name
   - Assigned developer/collaborators
@@ -39,4 +39,4 @@
 ## 6. Issue Tracking
 
 - Bugs, issues, and feature requests are raised on GitHub
-- Once accepted, they are ported to Asana and managed within the project workflow
+- Once accepted, they are managed within the project workflow
